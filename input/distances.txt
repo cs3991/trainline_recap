@@ -1,0 +1,35 @@
+departure;destination;distance
+Valence TGV;Grenoble;83
+Toulouse Matabiau;Valence TGV;451
+Valence TGV;Toulouse Matabiau;451
+Grenoble;Valence TGV;83
+Bellegarde-sur-Valserine;Grenoble;163
+Évian-les-Bains;Bellegarde-sur-Valserine;90
+Grenoble;Lyon Part-Dieu;135
+Lyon Part-Dieu;Grenoble;135
+Metz;Lyon Part-Dieu;681
+Maizières-lès-Metz;Metz;14
+Metz;Maizières-lès-Metz;14
+Paris Gare de Lyon;Grenoble;575
+Reims Ville;Paris Gare de l’Est;145
+Charleville-Mézières;Reims Ville;90
+Sète;Valence TGV;242
+Pamiers;Toulouse Matabiau;70
+Portet—Saint-Simon;Pamiers;56
+Pamiers;Portet—Saint-Simon;56
+Grenoble Gare Routière;Valence TGV;83
+Lyon Part-Dieu;Metz;681
+Chambéry Challes-les-Eaux;Grenoble;61
+Annecy;Chambéry Challes-les-Eaux;56
+Paris Gare du Nord;Lille-Flandres;227
+Grenoble;Paris Gare de Lyon;575
+Bordeaux St-Jean;Grenoble;1000
+Toulouse Matabiau;Bordeaux St-Jean;242
+Brax—Leguevin;Toulouse Matabiau;25
+St-Cyprien Arènes;Brax—Leguevin;12
+Brax—Leguevin;St-Cyprien Arènes;12
+Grenoble;Toulouse Matabiau;554
+Dijon Ville;Lyon Part-Dieu;200
+Grenoble;Nantes;900
+Lille-Europe;Lyon Part-Dieu;650
+Lyon Part-Dieu;Lille-Europe;650
